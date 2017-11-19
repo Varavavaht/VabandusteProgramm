@@ -13,9 +13,9 @@ namespace ConsoleApp1
             var vabandused = new List<string>
             {
                 "Sa tõlgendasin seda kohustust valesti.",
-                "Sul ei olnud piisavalt infot.",
+                "Sul ei olnud piisavalt infot!",
                 "Määratud tähtaeg on ebamõistlikult lühike!",
-                "Arvasid, et keegi teine pidi selle ära tegema.",
+                "Arvasid, et keegi teine pidi selle ära tegema!",
                 "See asi vajab tegelikult sügavamat analüüsi.",
                 "Sa ei mäleta, et sa sellise kohustusega nõus oleksin olnud.",
                 "Sa olin ebaadekvaatne kui selle tegemisega nõustusin!",
