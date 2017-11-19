@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             var vabandused = new List<string>
             {
-                "Sa tõlgendasin seda kohustust valesti.",
+                "Sa tõlgendasin seda kohustust valesti!",
                 "Sul ei olnud piisavalt infot!",
                 "Määratud tähtaeg on ebamõistlikult lühike!",
                 "Arvasid, et keegi teine pidi selle ära tegema!",
